@@ -5,7 +5,7 @@
   "authors": [
     "Gilles Coomans <gilles.coomans@gmail.com>"
   ],
-  "description": "bunch of utils for deepjs and related",
+  "description": "Bunch of utils for deepjs and related",
   "moduleType": [
     "amd",
     "node"
